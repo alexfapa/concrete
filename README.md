@@ -59,7 +59,7 @@ Exemplo de json para login:
   2. O token de acesso deve ser inserido no cabeçalho com um header, onde a Key deve ser "Authorization" e o value deve ser "Bearer + accessToken"
   3. O token é persistido no banco de dados.
   
- Exemplod de retorno em caso de sucesso:
+ Exemplo de retorno em caso de sucesso:
  >
 >```json
 >{
